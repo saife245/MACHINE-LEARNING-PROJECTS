@@ -25,8 +25,17 @@
      ANN
 ![rmnist_10](https://user-images.githubusercontent.com/41201124/49702279-8c6c6d00-fc1c-11e8-991d-9fab36041513.png)
 
+# 3rd project is about FootBall match league Prediction
+### dataset is from  http://www.football-data.co.uk/data.php
+#### model used
+    LOGISTIC REGRESSION
+    SVM
+    RANDOM FOREST
+    XGBOOST
 
-# 3rd project is about breast cancer diagnostic
+![12345](https://user-images.githubusercontent.com/41201124/50042716-20ab5980-008d-11e9-95df-7ea22de47146.jpg)
+
+# 4th project is about breast cancer diagnostic
 ### dataset is from Kaggle and UCI
 #### model used
      SVM
