@@ -35,6 +35,9 @@
 
 ![12345](https://user-images.githubusercontent.com/41201124/50042716-20ab5980-008d-11e9-95df-7ea22de47146.jpg)
 
+# 4th project is about 
+![curn](https://user-images.githubusercontent.com/41201124/50422195-3d564700-086e-11e9-816c-9a2a68c842a3.jpg)
+
 # 4th project is about breast cancer diagnostic
 ### dataset is from Kaggle and UCI
 #### model used
