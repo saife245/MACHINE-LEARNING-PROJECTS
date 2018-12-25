@@ -38,15 +38,16 @@
 # 4th project is about minimising churn rate through analysis of financial habit
 ### dataset is from google
 #### model used
-     SVM
+     Logistic Regression
      RandomForest
+     K-Fold Cross-validation
      
 ![curn](https://user-images.githubusercontent.com/41201124/50422195-3d564700-086e-11e9-816c-9a2a68c842a3.jpeg)
 
 # 5th project is about directing customer to subscription through app behaviour
 ### dataset is from google
 #### model used
-     SVM
+     Logistic Regression
      RandomForest
      
 ![customer](https://user-images.githubusercontent.com/41201124/50422198-447d5500-086e-11e9-8fd8-cf52477a61cf.png)
