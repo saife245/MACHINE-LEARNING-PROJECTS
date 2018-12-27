@@ -52,7 +52,18 @@
      
 ![customer](https://user-images.githubusercontent.com/41201124/50422198-447d5500-086e-11e9-8fd8-cf52477a61cf.png)
 
-# 6th project is about breast cancer diagnostic
+# 6th project is about Predicting the Likelihood of E-Signing a Loan Based on Financial History
+### dataset is from google
+#### model used
+    Logistic Regression
+    SVM
+    Naive Bais
+    RandomForest
+    K fold crossValidation
+
+![loan-applications](https://user-images.githubusercontent.com/41201124/50482761-4ed65500-0a0e-11e9-9a9f-0c390b1eb48f.jpg)
+
+# 7th project is about breast cancer diagnostic
 ### dataset is from Kaggle and UCI
 #### model used
      SVM
