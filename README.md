@@ -71,3 +71,10 @@
 
 ![breast-cancer](https://user-images.githubusercontent.com/41201124/49702290-a908a500-fc1c-11e8-8742-f7bf679f0e64.jpg)
 
+# 8th project is about IRIS class classification
+### dataset is from kaggle and Uci
+#### Model used
+    LogisticRegression
+    RandomForest
+
+![iris12](https://user-images.githubusercontent.com/41201124/50539142-2599fe00-0ba1-11e9-8981-0a9d444ce4d2.jpg)
